@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working on Social Media Mobile Application in Flutter
+
 I,m curretly learning Kotlin
+
 
 
 ## 🌐 Socials:
